@@ -1,0 +1,17 @@
+{
+	"name": "pierre/exercice5",
+	"authors": [
+		{
+			"name": "Pierre Migne",
+			"email": "pierre.migne@hotmail.fr"
+		}
+	],
+	"require": {
+		"fakerphp/faker": "^1.17"
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	}
+}
